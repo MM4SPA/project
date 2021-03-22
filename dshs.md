@@ -4,7 +4,7 @@ title: DSHS
 subtitle: German Sport University Cologne
 cover-img: /assets/img/DSHS_Luftbild.jpg
 ---
-<center><a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><h2> Institute for Exercise Training and Sports Informatics </h2></a>
+<center><a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><h2> Institute for Exercise Training and Sport Informatics </h2></a>
 </center>
 The <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i> Institute for Exercise Training and Sports Informatics </i></a> lead by Prof. Dr. Daniel Memmert is working in different areas. In the field of sports informatics and sports game research, issues related to Big Data in sports (especially professional soccer) are addressed, especially in the area of modeling, pattern recognition and simulation of team games. This includes developments in data analysis and data visualization as well as the application of modern database systems (Relational and NoSQL). 
 
