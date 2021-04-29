@@ -16,7 +16,7 @@ subtitle:
       <small>Ph.D. Student and Project Coordination</small><br />
     </div>
     <div class="column">
-        <img src="../assets/img/Hendrik_Biermann.jpg">
+        <img src="../assets/img/Henrik_Biermann.jpg">
          <a href="https://www.dshs-koeln.de/visitenkarte/person/henrik-biermann/" style="color:black">Henrik Biermann</a>  <br />
         <small>Ph.D. Student</small><br />
     </div>
