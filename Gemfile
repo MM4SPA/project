@@ -7,3 +7,5 @@ gemspec
 gem 'tzinfo-data'
 
 gem 'jekyll-twitter-plugin'
+
+gem 'rake'
