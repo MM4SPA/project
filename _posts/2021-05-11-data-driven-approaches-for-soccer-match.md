@@ -9,7 +9,7 @@ share-img: /assets/img/dfg_logo.jpg
 
 [![dfg_logo](../assets/img/dfg_logo.jpg)](https://gepris.dfg.de/gepris/projekt/432920202?language=en){: .mx-auto.d-block :}
  
-<h2>Projekt Description</h2>
+<h2>Project Description</h2>
 
 Huge volumes of Complex Data time series have been generated in various sport-related applications. These data require the definition of effective and efficient services for appropriate data storage, retrieval, and analysis. The term Complex Data refers to the universe of potentially non-structured, multimodal data, and therefore covers a wide variety of data types such as text, sound, image, video, graphs or positional information. Therefore, the present research proposal addresses research issues related to the specification and implementation of appropriate systems to handle large-scale Complex Data time series collections using an e-Science perspective. For this purpose, graph-visual rhythms are used in particular. Thus, the project represents an interface between soccer, mathematics (graph theory) and machine vision (visual representation/features). We expect to benefit from recent advances in the state of art on sport analysis and computer science. In particular, with respect to feature extraction, machine learning, and data fusion making use of data sets from sport science applications related to soccer match analysis.
 
