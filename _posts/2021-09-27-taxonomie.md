@@ -18,7 +18,7 @@ Prior work already presented automatic methods for the detection of individual s
 Due to ambigious definitions of the events and the fact that public datasets are very rare, both manual annotations and automatic detection of events do not fulfill a gold standard in annotation quality. 
 Even though the sports science perspective offers some taxonomies there is no global annotation scheme or event taxonomy that covers various fine-grained events that can be evaluated with few meaningful metrics.
 
-In our [paper](https://arxiv.org/pdf/2108.11149.pdf), we propse a taxonomy of base events that is valid for invasion games in general and can be refined or extended to sport-specific events. 
+In our [paper](https://arxiv.org/pdf/2108.11149.pdf), we propose a taxonomy of base events that is valid for invasion games in general and can be refined or extended to sport-specific events. 
 
 <a href = "../assets/img/taxonomy.png"> 
 <img src="../assets/img/taxonomy.png" alt="taxonomy" style="max-width:100%;height:auto;"/>
@@ -31,4 +31,4 @@ We investigate the expected human performance for a wide range of ball-centered 
 Further details on the annoted datasets are available on the respective project website of the paper: [https://github.com/mm4spa/eigd](https://github.com/mm4spa/eigd)
 
 
-With the presented taxonomy, datasets, and a baseline, we create a foundation for the design and the benchmarking of upcoming automatic approaches for the spotting of on-ball events. Also, other domains that work with video, positional, and event data, could benefit from the taxonomy and the datasets introduced. In the future, we plan to integrate non-on-ball events into the taxonomy and to exploit hierarchical information and attention to the ball position during training of a deep model.
+With the presented taxonomy, datasets, and a baseline, we crate a foundation for the design and the benchmarking of upcoming automatic approaches for the spotting of on-ball events. Also, other domains that work with video, positional, and event data, could benefit from the taxonomy and the datasets introduced. In the future, we plan to integrate non-on-ball events into the taxonomy and to exploit hierarchical information and attention to the ball position during training of a deep model.
