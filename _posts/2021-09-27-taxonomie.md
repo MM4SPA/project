@@ -11,7 +11,7 @@ Events like passes or shots play an important role for the interpretation of com
 Somewhat overstated: 
 1. The **Machine Learning** (ML) perspective aims to find automatic solutions for specific tasks. This perspective is initially only interested in maximizing the model's performance regardless of what the output or error mean in terms of content. 
 2. The **sports science** domain demands on semantically precise descriptions of the individual developments to analyze success factors. In contrast to the ML perspective, the sports science perspective is very interested in the events that were not recognized by the model and it will try to characterize the missing percentage to find similarities that are important for the description of the sport. 
-3. Finally, the **practicioners** who do not care about the recognition of events alone but they would rather like to evaluate their impact. They are interested in, e.g., the immediate impact of specific modification of training or tactics. 
+3. Finally, the **practitioners** who do not care about the recognition of events alone but they would rather like to evaluate their impact. They are interested in, e.g., the immediate impact of specific modification of training or tactics. 
 
 While the general objective to understand and exploit the underlying concepts in the sports is common to all perspectives, synergistic effects are barely observed. 
 Prior work already presented automatic methods for the detection of individual sport-specific events with focus on soccer. However, collecting semantic and (spatio-) temporal properties for events during matches is non-trivial, highly dependent on the underlying definitions, and is, in the case of (accurate) manual annotations, very time-consuming and expensive. 
