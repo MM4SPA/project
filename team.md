@@ -69,7 +69,7 @@ subtitle:
   <div class="row">
     <div class="column">
        <img src="../assets/img/Philipp_Seidenschwarz.jpg">
-       <a href="https://kinexon.com/de/sport" style="color:black">Philipp Seidenschwarz</a> <br />
+       <a href="https://kinexon.com/de" style="color:black">Philipp Seidenschwarz</a> <br />
       <small>Development Project Lead</small><br />
     </div>
     <div class="column">
