@@ -72,7 +72,6 @@ subtitle:
        <a href="https://kinexon.com/de/sport" style="color:black">Philipp Seidenschwarz</a> <br />
       <small>Development Project Lead</small><br />
     </div>
-  <div class="row">
     <div class="column">
        <img src="../assets/img/Pierre_Widmann.jpeg">
        <a href="https://kinexon.com/de/sport" style="color:black">Pierre Widmann</a> <br />
