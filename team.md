@@ -51,7 +51,7 @@ subtitle:
       <small>Ph.D. Student</small><br />
     </div>
     <div class="column">
-      <img src="../assets/img/Jonas_Theiner.jpeg">
+      <img src="../assets/img/Jonas_Theiner.jpg">
        <a href="https://www.tib.eu/en/forschung-entwicklung/visual-analytics/mitarbeiterinnen-und-mitarbeiter/huu-hung-nguyen-2" style="color:black">Jonas Theiner</a> <br />
       <small>Ph.D. Student</small><br />
     </div>
