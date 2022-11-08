@@ -140,6 +140,10 @@
   <link rel="stylesheet" href="{{ "/assets/css/staticman.css" | relative_url }}">
   {% endif %}
 
+  {% if site.youtubePlayer %}
+  <link rel="stylesheet" href="{{ "/assets/css/youtubePlayer.css" | relative_url }}">
+  {% endif %}
+
   {% if page.head-extra %}
     {% for file in page.head-extra %}
       {% include {{ file }} %}
