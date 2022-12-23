@@ -11,6 +11,10 @@ subtitle:
       <small>Head of ITS</small><br />
     </div>
     <div class="column">
+      <img src="../assets/img/Robert_Rein.jpg"><a href="https://www.dshs-koeln.de/visitenkarte/person/dr-robert-rein/" style="color:black">Dr. Robert Rein</a> <br />
+      <small>Research Fellow</small><br />
+    </div>
+    <div class="column">
       <img src="../assets/img/Dominik_Raabe.jpg">
         <a href="https://www.dshs-koeln.de/visitenkarte/person/dominik-raabe/" style="color:black">Dominik Raabe</a> <br />
       <small>Ph.D. Student and Project Coordination</small><br />
@@ -20,8 +24,6 @@ subtitle:
          <a href="https://www.dshs-koeln.de/visitenkarte/person/henrik-biermann/" style="color:black">Henrik Biermann</a>  <br />
         <small>Ph.D. Student</small><br />
     </div>
-
-  <div class="row">
     <div class="column">
       <img src="../assets/img/Rumena_Komitova.jpeg">
         <a href="https://www.dshs-koeln.de/visitenkarte/person/rumena-komitova/" style="color:black">Rumena Komitova</a>  <br />
@@ -36,7 +38,7 @@ subtitle:
         <a href="https://www.dshs-koeln.de/visitenkarte/person/martin-wohlan/" style="color:black">Martin Wohlan</a>  <br />
         <small>Research Assistant</small><br />
       </div>
-  </div> <br />
+  </div> 
 
 
 <div><a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"> <h2>L3S</h2> </a></div>
@@ -48,22 +50,19 @@ subtitle:
     <div class="column">
       <img src="../assets/img/Eric_Mueller-Budach.jpg">
        <a href="https://www.tib.eu/en/research-development/visual-analytics/staff/eric-mueller-budack" style="color:black">Dr. Eric Müller-Budack</a><br />
-      <small>Ph.D. Student</small><br />
+      <small>Postdoc</small><br />
     </div>
     <div class="column">
       <img src="../assets/img/Jonas_Theiner.jpg">
-       <a href="https://www.tib.eu/en/forschung-entwicklung/visual-analytics/mitarbeiterinnen-und-mitarbeiter/huu-hung-nguyen-2" style="color:black">Jonas Theiner</a> <br />
+       <a href="https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics/staff/jonas-theiner" style="color:black">Jonas Theiner</a> <br />
       <small>Ph.D. Student</small><br />
     </div>
-  </div>
-
-  <div class="row">
     <div class="column">
         <img src="../assets/img/Wolfgang_Gritz.jpg">
         <a href="https://www.tib.eu/en/research-development/visual-analytics/staff/huu-hung-nguyen-1" style="color:black">Wolfgang Gritz</a> <br />
         <small>Ph.D. Student</small><br />
     </div>
-  </div> <br />
+  </div>
 
 <div><a href="https://kinexon.com/de/sport" style="color:black"> <h2>Kinexon</h2></a></div>
   <div class="row">
