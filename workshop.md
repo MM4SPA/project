@@ -36,6 +36,8 @@ For registration please write an email to
 for(var tgaaid=["YQ","aA","ZQ","Mw","PA","Og","Ig","Ig","dA","ZQ","aQ","aQ","dA","ZA","cg","Pg","PA","ZQ","ZQ","cg","ZQ","bQ","ZQ","IA","cg","Pg","YQ","cw","ZQ","bg","bA","Lg","bA","QA","Zg","PQ","dA","bg","YQ","aA","QA","Lw","aQ","aA","bw","ZA","bA","Lg","Mw","cw"],dbktdt=[48,17,5,25,0,15,30,8,16,34,19,35,13,28,38,31,46,45,37,4,18,9,29,2,22,49,1,42,21,20,24,27,12,23,6,7,32,36,10,33,39,47,11,3,14,44,40,43,41,26],eyzefp=new Array,i=0;i<dbktdt.length;i++)eyzefp[dbktdt[i]]=tgaaid[i];for(var i=0;i<eyzefp.length;i++)document.write(atob(eyzefp[i]+"=="));
 // --></script><noscript>Please enable JavaScript to see the email address (<a href="https://www.email-encoder.com/enablejs/" target="_blank" rel="noopener noreferrer">How-to</a>).</noscript> and indicate if you will participate on site or virtually.
 
+An invitation link for virtual participation will be shared later by mail.
+
 ## Schedule
 
 The workshop is divided into two sessions:
